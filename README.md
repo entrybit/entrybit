@@ -1,4 +1,10 @@
-## Hi there 👋
+## 🔥 HELLO WORLD!
+
+### I'm Learning
+Python
+JavaScript
+TypeScript
+C++
 
 <!--
 **entrybit/entrybit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
